@@ -1,3 +1,16 @@
+#                               ---===Important Python Concepts===---
+# number : int = 10
+# decimal : float = 2.5
+# text : str = 'Hello, world'
+# active : bool = False
+
+# names : list = ['Anna', 'Bob', 'Jenny']
+# coordinates : tuple =  (1.5, 2.7) #it can't be change
+# unique : set = {1, 4, 2, 9} #it has unique and no-double
+# data : dict = {'name': 'Bob', 'age': 20}
+#====================================================================================================
+
+
 # # # Take a firs name as a variable and last name , then print to console "Your name is ____?"
 
 
